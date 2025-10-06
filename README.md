@@ -1,1 +1,1 @@
-Relies on repository github.com/yur4uwe/dt_lab_3
+Relies on repository [pkges](https://github.com/yur4uwe/pkges)
